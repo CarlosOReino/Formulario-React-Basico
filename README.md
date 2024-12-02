@@ -1,4 +1,4 @@
-# Formulario-React-Basico
+# Formulario-React-Básico
 
 Crea un componente funcional llamado `RegistrationForm` que:
 
